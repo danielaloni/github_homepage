@@ -10,5 +10,5 @@ My field of reaserch is theoretical particle physics. I'm mostly instreasted in:
 ### List of publications:
 Check here for the full [list of publication](<https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20D.Aloni.1>)
 
-## Cuurent position
+## Current position
 Post-doctoral fellow at [Boston university](<http://physics.bu.edu/people/show/alonidan>)
